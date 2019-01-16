@@ -1,0 +1,15 @@
+{
+  "name": "shrinkwrap-package-lock-update",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alasdair Smith <ali@alasdairsmith.co.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "left-pad": "^1.2.0"
+  }
+}
